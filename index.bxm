@@ -1,0 +1,2 @@
+<h1>Hello from BoxLang Land</h1>
+<bx:dump var="#server#" />
